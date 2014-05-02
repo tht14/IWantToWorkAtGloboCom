@@ -149,7 +149,7 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
-Plataforma de Cadastro (2 Vagas)
+Plataforma de Cadastro (1 Vagas)
 ---------------------------------
 
 Time responsável pela plataforma única de cadastro e login da globo.com, assim como as inscrições de programas como "BBB", "The Voice" e colaborações dos internautas. O Time trabalha com diversas tecnologias, linguagens, frameworks e sistemas, o que proporciona um ambiente variado, interessante e desafiador. Nossas aplicações lidam com milhões de requisições diariamente e precisamos de soluções criativas para lidar com estes volumes. 
