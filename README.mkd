@@ -123,6 +123,19 @@ Vagas Disponíveis
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo,
 faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
+Relação de vagas atual:
+* Área de Esporte (1 vaga)
+* Área de Jornalimo (1 vaga)
+* Produtos Globo.com (3 vagas)
+* Plataforma de Cadastro (1 vaga)
+* Plataforma de Personalização (1 vaga)
+* Plataforma de Comentários (1 vaga)
+* Área de Semântica
+* Tsuru: Plataforma como serviço (1 vaga)
+* Área de Infraestrutura (6 vagas)
+* Banco de Dados (1 vaga)
+
+Veja abaixo a descrição detalhada de cada vaga.
 
 Área de Esporte (1 vaga)
 --------------------------------
@@ -162,6 +175,23 @@ Experiência com metodologias ágeis, como Scrum;
 Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
+
+
+Produtos Globo.com (3 Vagas)
+-------------------------------------
+
+TechTudo, o site de tecnologia da Globo.com. Tudo sobre jogos, eletrônicos, celulares, software, TV, internet e downloads.
+
+
+**Must Have:**
+Ser apaixonado por desenvolvimento e tecnologia; Ter facilidade de trabalhar dentro de times multi-disciplinares; Escrever código limpo e legível para pessoas; Ter conhecimentos em design e arquitetura de software; Experiência com Python e Django; Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+**Should Have:**
+Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); Experiência com testes unitários, de aceitação, mocks, Selenium, etc; Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+**Nice to Have:**
+Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
+
 
 
 Plataforma de Cadastro (1 Vaga)
@@ -223,21 +253,6 @@ Time responsável por desenvolver a plataforma de comentários da globo.com.
 * Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
 
 
-
-Produtos Globo.com (3 Vagas)
--------------------------------------
-
-TechTudo, o site de tecnologia da Globo.com. Tudo sobre jogos, eletrônicos, celulares, software, TV, internet e downloads.
-
-
-**Must Have:**
-Ser apaixonado por desenvolvimento e tecnologia; Ter facilidade de trabalhar dentro de times multi-disciplinares; Escrever código limpo e legível para pessoas; Ter conhecimentos em design e arquitetura de software; Experiência com Python e Django; Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-
-**Should Have:**
-Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); Experiência com testes unitários, de aceitação, mocks, Selenium, etc; Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
-
-**Nice to Have:**
-Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
 
 
 Área de Semântica
